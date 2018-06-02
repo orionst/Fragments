@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="text_fragment1">Fragment 1</string>
+    <string name="text_fragment2">Fragment 2</string>
+    <string name="btnName">Button</string>
+    <string name="text_fragment3">Fragment 3</string>
+    <string name="btnAddFragment3">Add Fragment3</string>
+    <array name="Cities">
+        <item>Msk</item>
+        <item>Spb</item>
+    </array>
+</resources>
